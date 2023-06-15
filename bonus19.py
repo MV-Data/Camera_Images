@@ -3,7 +3,7 @@ from PIL import Image
 
 
 # Ruta de la imagen en formato JPG o PNG
-ruta_imagen = "C:/Workspace_proyectos/Curso_Python_20_apps/app1/Bonus/travesti.png"
+ruta_imagen = "travesti.png"
 
 
 #Empieza la camara
