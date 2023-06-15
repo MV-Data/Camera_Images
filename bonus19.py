@@ -5,9 +5,9 @@ from PIL import Image
 # Ruta de la imagen en formato JPG o PNG
 ruta_imagen = "travesti.png"
 
-
-#Empieza la camara
-camera_image = st.camera_input("Camera")
+with st.expander("Iniciar cámara"):
+    #Empieza la camara
+    camera_image = st.camera_input("Camera")
 
 if camera_image:
 
